@@ -1,0 +1,11 @@
+# COMPRIMIDOS
+*.zip
+
+# WORKSPACE PROTEUS
+*.pdsbak
+*.workspace
+*.log
+
+# IMAGENES
+*.png
+*.SVG
